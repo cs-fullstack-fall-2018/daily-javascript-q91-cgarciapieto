@@ -45,3 +45,5 @@ function printDate() {
 }
 printDate();
 ```
+____________________________
+3)
